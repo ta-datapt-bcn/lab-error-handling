@@ -2,6 +2,12 @@
 
 # Lab | Error Handling
 
+## Student
+
+- Alberto Labarga
+- alabarga
+- 2021-09-30
+
 ## Introduction
 
 In this lab we will learn how to handle errors in Python. We will handle the errors using a `try` block or an `if` statement. We will also learn how to fix errors and raise errors in our code.
